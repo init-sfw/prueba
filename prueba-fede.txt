@@ -1,0 +1,8 @@
+Hola esto es una prueba inicial de archivo.
+
+Primero me cloné el repo con "git clone https://github.com/init-sfw/prueba"
+Después lo creé localmente al archivo.
+Después le di 'git add prueba-fede.txt' para agregarlo al tracking de git.
+(El paso anterior se llamaba subirlo al 'stage', que es el estado entre agregado y commiteado)
+Después lo commiteo a mi repo local con "git commit -m 'subo archivo de texto de prueba'
+Luego no sé cómo voy a seguir, así que acá corto.
