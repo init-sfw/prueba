@@ -1,0 +1,7 @@
+Empezamos las pruebas con github
+
+1) Descargue git y la UI de github
+2) Hice un fork del proyecto Prueba
+3) Clone el proyecto Prueba a mi repo local
+4) Hice un txt de prueba con los pasos que estoy haciendo
+5) Hago un commit a mi repo local (para agregar este txt)
